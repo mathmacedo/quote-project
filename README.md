@@ -1,5 +1,5 @@
 # Demo live
-https://github.com/mathmacedo/quote-project/deployments
+https://mathmacedo.github.io/quote-project/
 
 # quote-project
 
